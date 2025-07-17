@@ -3,6 +3,9 @@
 [![R](https://img.shields.io/badge/R-%276DDE88.svg?logo=r&logoColor=white)](https://www.r-project.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-2.0+-blue?logo=rstudio&logoColor=white)](https://shiny.rstudio.com/)
 
+> 📚 **Proyecto académico**  
+> Dashboard interactivo desarrollado como ejercicio práctico para la materia **Ciencia de Datos** de la  
+> **Tecnicatura en Ciencias de Datos**, con tema de libre elección.
 
 Un dashboard interactivo para explorar estadísticas de "Anime.csv" con visualizaciones dinámicas y múltiples temas visuales inspirados en populares series como Naruto, Dragon Ball y Attack on Titan.
 
