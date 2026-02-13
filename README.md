@@ -98,12 +98,3 @@ El archivo `Anime.csv` actual contiene principalmente datos de la serie **Naruto
 - La mayoría de visualizaciones mostrarán predominancia de esta franquicia
 - Las estadísticas generales no representan el universo completo de anime
 
-### 💡 Recomendaciones
-Para mejorar el análisis:
-
-✅ **Sugerencias de implementación:**
-1. Incorporar datos de más series para diversidad
-   ```r
-   # Ejemplo para cargar datos adicionales
-   anime_extra <- read.csv("nuevos_datos.csv")
-   anime_data <- bind_rows(anime_data, anime_extra)
